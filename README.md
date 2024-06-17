@@ -2,7 +2,7 @@
 
 # Study guide to prepare the GitHub certifications
 
-A set of resources that helped me prepare for the different GitHub certifications, organized by curriculum domain. They may as well serve as learning and practicing with GitHub.
+A set of resources that helped me prepare for the different GitHub certifications, organized by curriculum domain. They may as well serve as learning and practising with GitHub.
 
 This guide covers three certifications:
 
@@ -23,3 +23,10 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 ## Can I fork it?
 
 Yes, of course, but **only** if you plan to do a pull-request to contribute. If you want to keep it as a bookmark, just star it to let people easily find the original one.
+
+## User Profile
+- Pankaj Gupta
+  Cloud Architect | Sr DevOps Lead | Certified CKA [kubernetes], CKS, Redhat, AWS, Terraform, GithubActions, FinOps Containers
+  https://docqs.in
+Linkedin:  https://www.linkedin.com/in/pankaj-gupta-5531b643/
+<img src="./content/media/user.png"  width="373"/>
