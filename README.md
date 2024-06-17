@@ -26,7 +26,7 @@ Yes, of course, but **only** if you plan to do a pull-request to contribute. If 
 
 ## User Profile
 - Pankaj Gupta
-  Cloud Architect | Sr DevOps Lead | Certified CKA [kubernetes], CKS, Redhat, AWS, Terraform, GithubActions, FinOps Containers
-  https://docqs.in
-Linkedin:  https://www.linkedin.com/in/pankaj-gupta-5531b643/
+   -  Cloud Architect | Sr DevOps Lead | Certified CKA [kubernetes], CKS, Redhat, AWS, Terraform, GithubActions, FinOps Containers
+   -  https://docqs.in
+   -  Linkedin:  https://www.linkedin.com/in/pankaj-gupta-5531b643/
 <img src="./content/media/user.png"  width="373"/>
