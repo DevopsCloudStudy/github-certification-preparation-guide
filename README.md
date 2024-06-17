@@ -19,6 +19,8 @@ You will find **[guides and test exams here](content/readme.md).**
 
 - Please check - https://github.com/DevopsCloudStudy/github-certification-preparation-guide/blob/main/content/FAQ.md
 
+- KEY POINTS - TOPICWISE - https://github.com/DevopsCloudStudy/github-certification-preparation-guide/blob/main/content/exams/github-actions-keypoints.md
+
 ## User Profile
 - Pankaj Gupta
    -  Cloud Architect | Sr DevOps Lead | Certified CKA [kubernetes], CKS, Redhat, AWS, Terraform, GithubActions, FinOps Containers
