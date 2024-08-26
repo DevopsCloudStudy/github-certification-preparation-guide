@@ -26,4 +26,4 @@ You will find **[guides and test exams here](content/readme.md).**
    -  Cloud Architect | Sr DevOps Lead | Certified CKA [kubernetes], CKS, Redhat, AWS, Terraform, GithubActions, FinOps Containers
    -  https://docqs.in
    -  Linkedin:  https://www.linkedin.com/in/pankaj-gupta-5531b643/
-     <img src="./content/media/user.png"  width="373"/>
+     <img src="./content/media/user-gupta.png"  width="373"/>
